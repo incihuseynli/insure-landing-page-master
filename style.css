@@ -241,13 +241,6 @@ footer {
   text-decoration-thickness: 0.15rem;
 }
 
-.attribution {
-  font-size: 11px;
-  text-align: center;
-}
-.attribution a {
-  color: hsl(228, 45%, 44%);
-}
 
 @media (min-width: 860px) {
   header {
